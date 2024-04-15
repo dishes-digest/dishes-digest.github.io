@@ -8,7 +8,7 @@ categories: [pans, shrek]
 And we're back! 
  
 ## Announcing this weeks theme: washing your pan thoroughly 🧽🍳🧽!!
- 
+
 **Fun fact:** did you know, that to wash a pan you should wash both the inside and the outside! Even if the outside seems clean. Not only that, but make sure to scrub the pan (like all other dishes) thoroughly with a sponge (often the green/rougher part of the sponge can help) and soap. Try to do this until the pan no longer feels grimy/oily or has any visible foodstuffs on it. That way we can prevent oil from building up and pans getting gross. Also – try to never use steel wool or any other metal (including spatulas) on non-stick pans – it’s dangerous as it can make the coating come off, ruining the non-stickness and releasing dangerous potentially carcinogens. What a fun fact!
  
 ---
