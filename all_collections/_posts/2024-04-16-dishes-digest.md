@@ -13,11 +13,11 @@ And what’s new, now were online too!! You can view a record of all dishes dige
  
 Fun fact: did you know we have several different types of sponges? We have the yellow-green sponges (these are the default sponge), a scrubby brush, the rougher green rag/sponges, the blue swedish dish cloth, and steel wool. The back green side of the the yellow-green sponges are rougher. The blue swedish dish cloth is only for cleaning the stove/counter not for dishes!
 
-In general, your order of trying to use sponges should be (you move on to the next if the previous wasn’t enough to clean): yellow side of yellow-green sponge, green side of yellow-green sponge, scrubby brush, then steel wool. If you are needing to scrub too hard to get something off, you should use a rougher sponge to not damage it!
+In general, your order of trying to use sponges should be (you move on to the next if the previous wasn’t enough to clean): yellow side of yellow-green sponge, green side of yellow-green sponge, rougher green sponge, scrubby brush, then steel wool. If you are needing to scrub too hard to get something off, you should use a rougher sponge to not damage it!
 
 Bianca’s Bold Bproposition: If you are washing a cutting board, you should use only the scrubby brush or harsher green sponges. The normal yellow-green sponges are damaged by the cutting board’s abrasive surface.
 
-If you have a non-stick pan* you should only use the yellow/green dish cloth (anything metal or too rough can damage it and be dangerous). If you really need it on non-stick, you can try the rougher green sponge, but you need to be uber super-duper careful and gentle to not scratch it.
+If you have a non-stick pan* you should only use the yellow/green sponge (anything metal or too rough can damage it and be dangerous). If you really need it on non-stick, you can try the rougher green sponge, but you need to be uber super-duper careful and gentle to not scratch it.
  
 *To tell if you have a nonstick pan: nonstick pans tend to be the ones that don’t look stainless (which you can usually tell from color and texture). If you aren’t sure – ask people if it is! It’s an intuition you can build up over time :) !  
  
