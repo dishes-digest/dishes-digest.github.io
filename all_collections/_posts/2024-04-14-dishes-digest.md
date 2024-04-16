@@ -43,7 +43,7 @@ There’s only 4 weeks left of classes, so beware!!!
 
 Hilary Hahn is performing at the BSO the weekend!
  
-See some fun events being put on by your fellow bonfaari
+## See some fun events being put on by your fellow bonfaari
 
 🌽 🌽 🌽: Sexy Corn Gather happening on Bonfire on evening of 4/20.
  
