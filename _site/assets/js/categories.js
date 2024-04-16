@@ -1,4 +1,4 @@
-const categories = { pans: [{ url: `/posts/dishes-digest/`, date: `15 Apr 2024`, title: `🔥 Dishes Digest Apr 16 🔥`},{ url: `/posts/dishes-digest/`, date: `09 Apr 2024`, title: `🔥 Dishes Digest Apr 9 🔥`},],shrek: [{ url: `/posts/dishes-digest/`, date: `15 Apr 2024`, title: `🔥 Dishes Digest Apr 16 🔥`},{ url: `/posts/dishes-digest/`, date: `09 Apr 2024`, title: `🔥 Dishes Digest Apr 9 🔥`},], }
+const categories = { pans: [{ url: `/posts/dishes-digest-416/`, date: `15 Apr 2024`, title: `🔥 Dishes Digest Apr 16 🔥`},{ url: `/posts/dishes-digest-409/`, date: `09 Apr 2024`, title: `🔥 Dishes Digest Apr 9 🔥`},],shrek: [{ url: `/posts/dishes-digest-416/`, date: `15 Apr 2024`, title: `🔥 Dishes Digest Apr 16 🔥`},{ url: `/posts/dishes-digest-409/`, date: `09 Apr 2024`, title: `🔥 Dishes Digest Apr 9 🔥`},], }
 
 console.log(categories)
 
